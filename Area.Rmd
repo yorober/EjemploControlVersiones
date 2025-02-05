@@ -24,10 +24,28 @@ Area <- pi*r^2
   
 ```
 
-#Area cuadrado.
+#Area cuadrado
 
 ```{r}
 Lado <- 3
 AreaCuadrado <- Lado^2
+
+```
+
+#Area triangulo
+
+```{r}
+base <- 4
+altura <- 6
+AreaCuadrado <- (base*altura)/2
+
+```
+
+#Area rectangulo
+
+```{r}
+alto <- 3
+ancho <- 5
+AreaCuadrado <- alto*ancho
 
 ```
