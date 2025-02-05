@@ -37,7 +37,7 @@ AreaCuadrado <- Lado^2
 ```{r}
 base <- 4
 altura <- 6
-AreaCuadrado <- (base*altura)/2
+AreaTriangulo <- (base*altura)/2
 
 ```
 
@@ -46,6 +46,16 @@ AreaCuadrado <- (base*altura)/2
 ```{r}
 alto <- 3
 ancho <- 5
-AreaCuadrado <- alto*ancho
+AreaRectangulo <- alto*ancho
+
+```
+
+#Area trapecio
+
+```{r}
+base1 <- 5
+base2 <- 7
+alto <- 9
+AreaTrapecio <- (base1 + base2/2)*alto
 
 ```
