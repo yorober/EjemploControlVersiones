@@ -1,3 +1,3 @@
-AreaCuadrado <- function(L){
+PerimetroCuadrado <- function(L){
   return(4*L)
 }
