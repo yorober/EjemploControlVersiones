@@ -24,7 +24,7 @@ Area <- pi*r^2
   
 ```
 
-#Area cuadrado
+#Area cuadrado.
 
 ```{r}
 Lado <- 3
