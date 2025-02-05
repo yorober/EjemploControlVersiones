@@ -1,0 +1,25 @@
+---
+title: "Areas"
+
+author: "Yordano Rodriguez Bernal"
+
+date: "03/02/2025"
+
+output: html_document
+---
+
+```{r setup, include=FALSE}
+
+knitr::opts_chunk$set(echo = T)
+
+```
+
+#Area_circulo
+
+
+```{r}
+
+r <- 0.5
+Area <- pi*r^2
+  
+```
